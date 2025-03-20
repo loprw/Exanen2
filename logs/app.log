@@ -1,0 +1,822 @@
+2025-03-20 16:37:53 [main] DEBUG Main - Debug Hello world2!
+2025-03-20 16:37:53 [main] INFO  Main - Info Hello world2!
+2025-03-20 16:37:53 [main] WARN  Main - Warn Hello world2!
+2025-03-20 16:37:53 [main] ERROR Main - Error Hello world2!
+2025-03-20 16:39:00 [main] DEBUG Main - Debug Hello world2!
+2025-03-20 16:39:00 [main] INFO  Main - Info Hello world2!
+2025-03-20 16:39:00 [main] WARN  Main - Warn Hello world2!
+2025-03-20 16:39:00 [main] ERROR Main - Error Hello world2!
+2025-03-20 17:14:36 [main] INFO  examen.parte1.Utilidades - Certificado Especializadode Informática Cuántica.
+2025-03-20 17:14:36 [main] INFO  examen.parte1.Utilidades - Curso Básico de Informática Aplicada.
+2025-03-20 17:14:36 [main] INFO  examen.parte1.Utilidades - Diploma Básico de Química Histórica.
+2025-03-20 17:14:55 [main] INFO  examen.parte1.Utilidades - Diploma Especializado de Informática Estándar.
+2025-03-20 17:14:55 [main] INFO  examen.parte1.Utilidades - Curso Avanzado de Informática Estándar.
+2025-03-20 17:14:55 [main] INFO  examen.parte1.Utilidades - Certificado Profesional de Matemáticas Histórica.
+2025-03-20 17:21:37 [main] INFO  examen.Utilidades - Módulo Básico de Informática Aplicada.
+2025-03-20 17:21:37 [main] INFO  examen.Utilidades - Diploma Avanzado de Química Aplicada.
+2025-03-20 17:23:36 [main] INFO  examen.Utilidades - Módulo Básico de Informática Estándar.
+2025-03-20 17:23:36 [main] INFO  examen.Utilidades - Diploma Especializado de Matemáticas Cuántica.
+2025-03-20 17:31:57 [main] INFO  examen.Utilidades - La línea 1 ha sido leída. Su texto es: 
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+2025-03-20 17:31:57 [main] INFO  examen.Utilidades - La línea 2 ha sido leída. Su texto es: 
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+2025-03-20 17:31:57 [main] INFO  examen.Utilidades - La línea 3 ha sido leída. Su texto es: 
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+2025-03-20 17:31:57 [main] INFO  examen.Utilidades - La línea 4 ha sido leída. Su texto es: 
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+2025-03-20 17:31:57 [main] INFO  examen.Utilidades - La línea 5 ha sido leída. Su texto es: 
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+2025-03-20 17:33:01 [main] INFO  examen.Utilidades - La línea 1 ha sido leída. Su texto es: 
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+2025-03-20 17:33:01 [main] INFO  examen.Utilidades - La línea 2 ha sido leída. Su texto es: 
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+2025-03-20 17:33:01 [main] INFO  examen.Utilidades - La línea 3 ha sido leída. Su texto es: 
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+2025-03-20 17:33:01 [main] INFO  examen.Utilidades - La línea 4 ha sido leída. Su texto es: 
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+2025-03-20 17:33:01 [main] INFO  examen.Utilidades - La línea 5 ha sido leída. Su texto es: 
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+2025-03-20 17:33:01 [main] INFO  examen.parte2.MainFichero - 5
+2025-03-20 17:41:16 [main] INFO  examen.Utilidades - La línea 1 ha sido leída. Su texto es: 
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+2025-03-20 17:41:16 [main] INFO  examen.Utilidades - La línea 2 ha sido leída. Su texto es: 
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+2025-03-20 17:41:16 [main] INFO  examen.Utilidades - La línea 3 ha sido leída. Su texto es: 
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+2025-03-20 17:41:16 [main] INFO  examen.Utilidades - La línea 4 ha sido leída. Su texto es: 
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+2025-03-20 17:41:16 [main] INFO  examen.Utilidades - La línea 5 ha sido leída. Su texto es: 
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+2025-03-20 17:41:16 [main] INFO  examen.parte2.MainFichero - El número de líneas del archivo es: 5
+2025-03-20 17:41:16 [main] INFO  examen.parte2.MainFichero - El número de veces que aparace la palabra java es: 4
+2025-03-20 17:54:34 [main] INFO  examen.Utilidades - La línea 1 ha sido leída. Su texto es: 
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+2025-03-20 17:54:34 [main] INFO  examen.Utilidades - La línea 2 ha sido leída. Su texto es: 
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+2025-03-20 17:54:34 [main] INFO  examen.Utilidades - La línea 3 ha sido leída. Su texto es: 
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+2025-03-20 17:54:34 [main] INFO  examen.Utilidades - La línea 4 ha sido leída. Su texto es: 
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+2025-03-20 17:54:34 [main] INFO  examen.Utilidades - La línea 5 ha sido leída. Su texto es: 
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+2025-03-20 17:54:34 [main] INFO  examen.parte2.MainFichero - El número de líneas del archivo es: 5.
+2025-03-20 17:54:34 [main] INFO  examen.parte2.MainFichero - El número de veces que aparace la palabra java es: 4.
+2025-03-20 17:54:34 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+ con clave 1.
+2025-03-20 17:54:34 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+ con clave 2.
+2025-03-20 17:54:34 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+ con clave 3.
+2025-03-20 17:54:34 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+ con clave 4.
+2025-03-20 17:54:34 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+ con clave 5.
+2025-03-20 17:55:00 [main] INFO  examen.Utilidades - La línea 1 ha sido leída. Su texto es: 
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+2025-03-20 17:55:00 [main] INFO  examen.Utilidades - La línea 2 ha sido leída. Su texto es: 
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+2025-03-20 17:55:00 [main] INFO  examen.Utilidades - La línea 3 ha sido leída. Su texto es: 
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+2025-03-20 17:55:00 [main] INFO  examen.Utilidades - La línea 4 ha sido leída. Su texto es: 
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+2025-03-20 17:55:00 [main] INFO  examen.Utilidades - La línea 5 ha sido leída. Su texto es: 
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+2025-03-20 17:55:00 [main] INFO  examen.parte2.MainFichero - El número de líneas del archivo es: 5.
+2025-03-20 17:55:00 [main] INFO  examen.parte2.MainFichero - El número de veces que aparace la palabra java es: 4.
+2025-03-20 17:55:00 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+ en el valor de clave 1.
+2025-03-20 17:55:00 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+ en el valor de clave 2.
+2025-03-20 17:55:00 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+ en el valor de clave 3.
+2025-03-20 17:55:00 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+ en el valor de clave 4.
+2025-03-20 17:55:00 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+ en el valor de clave 5.
+2025-03-20 18:04:12 [main] INFO  examen.Utilidades - La línea 1 ha sido leída. Su texto es: 
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+2025-03-20 18:04:12 [main] INFO  examen.Utilidades - La línea 2 ha sido leída. Su texto es: 
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+2025-03-20 18:04:12 [main] INFO  examen.Utilidades - La línea 3 ha sido leída. Su texto es: 
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+2025-03-20 18:04:12 [main] INFO  examen.Utilidades - La línea 4 ha sido leída. Su texto es: 
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+2025-03-20 18:04:12 [main] INFO  examen.Utilidades - La línea 5 ha sido leída. Su texto es: 
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+2025-03-20 18:04:12 [main] INFO  examen.parte2.MainFichero - El número de líneas del archivo es: 5.
+2025-03-20 18:04:12 [main] INFO  examen.parte2.MainFichero - El número de veces que aparace la palabra java es: 4.
+2025-03-20 18:04:12 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+ en el valor de clave 1.
+2025-03-20 18:04:12 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+ en el valor de clave 2.
+2025-03-20 18:04:12 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+ en el valor de clave 3.
+2025-03-20 18:04:12 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+ en el valor de clave 4.
+2025-03-20 18:04:12 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+ en el valor de clave 5.
+2025-03-20 18:04:12 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+ en el valor de clave 1.
+2025-03-20 18:04:12 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+ en el valor de clave 2.
+2025-03-20 18:04:12 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+ en el valor de clave 3.
+2025-03-20 18:04:12 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+ en el valor de clave 4.
+2025-03-20 18:04:12 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+ en el valor de clave 5.
+2025-03-20 18:04:12 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 1.
+2025-03-20 18:04:12 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 3.
+2025-03-20 18:04:12 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 3.
+2025-03-20 18:04:12 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 5.
+2025-03-20 18:13:05 [main] INFO  examen.Utilidades - La línea 1 ha sido leída. Su texto es: 
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+2025-03-20 18:13:05 [main] INFO  examen.Utilidades - La línea 2 ha sido leída. Su texto es: 
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+2025-03-20 18:13:05 [main] INFO  examen.Utilidades - La línea 3 ha sido leída. Su texto es: 
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+2025-03-20 18:13:05 [main] INFO  examen.Utilidades - La línea 4 ha sido leída. Su texto es: 
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+2025-03-20 18:13:05 [main] INFO  examen.Utilidades - La línea 5 ha sido leída. Su texto es: 
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+2025-03-20 18:13:05 [main] INFO  examen.parte2.MainFichero - El número de líneas del archivo es: 5.
+2025-03-20 18:13:05 [main] INFO  examen.parte2.MainFichero - El número de veces que aparace la palabra java es: 4.
+2025-03-20 18:13:05 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+ en el valor de clave 1.
+2025-03-20 18:13:05 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+ en el valor de clave 2.
+2025-03-20 18:13:05 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+ en el valor de clave 3.
+2025-03-20 18:13:05 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+ en el valor de clave 4.
+2025-03-20 18:13:05 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+ en el valor de clave 5.
+2025-03-20 18:13:05 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+ en el valor de clave 1.
+2025-03-20 18:13:05 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+ en el valor de clave 2.
+2025-03-20 18:13:05 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+ en el valor de clave 3.
+2025-03-20 18:13:05 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+ en el valor de clave 4.
+2025-03-20 18:13:05 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+ en el valor de clave 5.
+2025-03-20 18:13:05 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 1.
+2025-03-20 18:13:05 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 3.
+2025-03-20 18:13:05 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 3.
+2025-03-20 18:13:05 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 5.
+2025-03-20 18:13:05 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+ en el valor de clave 1.
+2025-03-20 18:13:05 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+ en el valor de clave 2.
+2025-03-20 18:13:05 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+ en el valor de clave 3.
+2025-03-20 18:13:05 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+ en el valor de clave 4.
+2025-03-20 18:13:05 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+ en el valor de clave 5.
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - La línea 1 ha sido leída. Su texto es: 
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - La línea 2 ha sido leída. Su texto es: 
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - La línea 3 ha sido leída. Su texto es: 
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - La línea 4 ha sido leída. Su texto es: 
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - La línea 5 ha sido leída. Su texto es: 
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+2025-03-20 18:24:33 [main] INFO  examen.parte2.MainFichero - El número de líneas del archivo es: 5.
+2025-03-20 18:24:33 [main] INFO  examen.parte2.MainFichero - El número de veces que aparace la palabra java es: 4.
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+ en el valor de clave 1.
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+ en el valor de clave 2.
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+ en el valor de clave 3.
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+ en el valor de clave 4.
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+ en el valor de clave 5.
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+ en el valor de clave 1.
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+ en el valor de clave 2.
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+ en el valor de clave 3.
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+ en el valor de clave 4.
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+ en el valor de clave 5.
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 1.
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 3.
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 3.
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 5.
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+ en el valor de clave 1.
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+ en el valor de clave 2.
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+ en el valor de clave 3.
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+ en el valor de clave 4.
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+ en el valor de clave 5.
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - Para la línea 1, el valor de la suma de su clave y del total de sus caracteres es 27.
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - Para la línea 2, el valor de la suma de su clave y del total de sus caracteres es 53.
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - Para la línea 3, el valor de la suma de su clave y del total de sus caracteres es 84.
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - Para la línea 4, el valor de la suma de su clave y del total de sus caracteres es 115.
+2025-03-20 18:24:33 [main] INFO  examen.Utilidades - Para la línea 5, el valor de la suma de su clave y del total de sus caracteres es 144.
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - La línea 1 ha sido leída. Su texto es: 
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - La línea 2 ha sido leída. Su texto es: 
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - La línea 3 ha sido leída. Su texto es: 
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - La línea 4 ha sido leída. Su texto es: 
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - La línea 5 ha sido leída. Su texto es: 
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+2025-03-20 18:24:59 [main] INFO  examen.parte2.MainFichero - El número de líneas del archivo es: 5.
+2025-03-20 18:24:59 [main] INFO  examen.parte2.MainFichero - El número de veces que aparace la palabra java es: 4.
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+ en el valor de clave 1.
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+ en el valor de clave 2.
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+ en el valor de clave 3.
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+ en el valor de clave 4.
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+ en el valor de clave 5.
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+ en el valor de clave 1.
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+ en el valor de clave 2.
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+ en el valor de clave 3.
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+ en el valor de clave 4.
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+ en el valor de clave 5.
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 1.
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 3.
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 3.
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 5.
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+ en el valor de clave 1.
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+ en el valor de clave 2.
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+ en el valor de clave 3.
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+ en el valor de clave 4.
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+ en el valor de clave 5.
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - Para la línea 1, el valor de la suma de su clave y del total de sus caracteres es 27.
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - Para la línea 2, el valor de la suma de su clave y del total de sus caracteres es 26.
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - Para la línea 3, el valor de la suma de su clave y del total de sus caracteres es 31.
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - Para la línea 4, el valor de la suma de su clave y del total de sus caracteres es 31.
+2025-03-20 18:24:59 [main] INFO  examen.Utilidades - Para la línea 5, el valor de la suma de su clave y del total de sus caracteres es 29.
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - La línea 1 ha sido leída. Su texto es: 
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - La línea 2 ha sido leída. Su texto es: 
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - La línea 3 ha sido leída. Su texto es: 
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - La línea 4 ha sido leída. Su texto es: 
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - La línea 5 ha sido leída. Su texto es: 
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+2025-03-20 18:26:04 [main] INFO  examen.parte2.MainFichero - El número de líneas del archivo es: 5.
+2025-03-20 18:26:04 [main] INFO  examen.parte2.MainFichero - El número de veces que aparace la palabra java es: 4.
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+ en el valor de clave 1.
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+ en el valor de clave 2.
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+ en el valor de clave 3.
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+ en el valor de clave 4.
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+ en el valor de clave 5.
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+ en el valor de clave 1.
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+ en el valor de clave 2.
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+ en el valor de clave 3.
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+ en el valor de clave 4.
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+ en el valor de clave 5.
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 1.
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 3.
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 3.
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 5.
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+ en el valor de clave 1.
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+ en el valor de clave 2.
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+ en el valor de clave 3.
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+ en el valor de clave 4.
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+ en el valor de clave 5.
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - Para la línea 1, el valor de la suma de su clave y del total de sus caracteres es 27.
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - Para la línea 2, el valor de la suma de su clave y del total de sus caracteres es 26.
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - Para la línea 3, el valor de la suma de su clave y del total de sus caracteres es 31.
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - Para la línea 4, el valor de la suma de su clave y del total de sus caracteres es 31.
+2025-03-20 18:26:04 [main] INFO  examen.Utilidades - Para la línea 5, el valor de la suma de su clave y del total de sus caracteres es 29.
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - La línea 1 ha sido leída. Su texto es: 
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - La línea 2 ha sido leída. Su texto es: 
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - La línea 3 ha sido leída. Su texto es: 
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - La línea 4 ha sido leída. Su texto es: 
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - La línea 5 ha sido leída. Su texto es: 
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+2025-03-20 18:27:37 [main] INFO  examen.parte2.MainFichero - El número de líneas del archivo es: 5.
+2025-03-20 18:27:37 [main] INFO  examen.parte2.MainFichero - El número de veces que aparace la palabra java es: 4.
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+ en el valor de clave 1.
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+ en el valor de clave 2.
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+ en el valor de clave 3.
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+ en el valor de clave 4.
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+ en el valor de clave 5.
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+ en el valor de clave 1.
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+ en el valor de clave 2.
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+ en el valor de clave 3.
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+ en el valor de clave 4.
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+ en el valor de clave 5.
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 1.
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 3.
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 3.
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 5.
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+ en el valor de clave 1.
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+ en el valor de clave 2.
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+ en el valor de clave 3.
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+ en el valor de clave 4.
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+ en el valor de clave 5.
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - Para la línea 1, el valor de la suma de su clave y del total de sus caracteres es 28.
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - Para la línea 2, el valor de la suma de su clave y del total de sus caracteres es 27.
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - Para la línea 3, el valor de la suma de su clave y del total de sus caracteres es 32.
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - Para la línea 4, el valor de la suma de su clave y del total de sus caracteres es 32.
+2025-03-20 18:27:37 [main] INFO  examen.Utilidades - Para la línea 5, el valor de la suma de su clave y del total de sus caracteres es 30.
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - La línea 1 ha sido leída. Su texto es: 
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - La línea 2 ha sido leída. Su texto es: 
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - La línea 3 ha sido leída. Su texto es: 
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - La línea 4 ha sido leída. Su texto es: 
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - La línea 5 ha sido leída. Su texto es: 
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+2025-03-20 18:30:32 [main] INFO  examen.parte2.MainFichero - El número de líneas del archivo es: 5.
+2025-03-20 18:30:32 [main] INFO  examen.parte2.MainFichero - El número de veces que aparace la palabra java es: 4.
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+ en el valor de clave 1.
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+ en el valor de clave 2.
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+ en el valor de clave 3.
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+ en el valor de clave 4.
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+ en el valor de clave 5.
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+ en el valor de clave 1.
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+ en el valor de clave 2.
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+ en el valor de clave 3.
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+ en el valor de clave 4.
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+ en el valor de clave 5.
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 1.
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 3.
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 3.
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 5.
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+ en el valor de clave 1.
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+ en el valor de clave 2.
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+ en el valor de clave 3.
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+ en el valor de clave 4.
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+ en el valor de clave 5.
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - Para la línea 1, el valor de la suma de su clave y del total de sus caracteres es 29.
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - Para la línea 2, el valor de la suma de su clave y del total de sus caracteres es 28.
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - Para la línea 3, el valor de la suma de su clave y del total de sus caracteres es 34.
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - Para la línea 4, el valor de la suma de su clave y del total de sus caracteres es 33.
+2025-03-20 18:30:32 [main] INFO  examen.Utilidades - Para la línea 5, el valor de la suma de su clave y del total de sus caracteres es 32.
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - La línea 1 ha sido leída. Su texto es: 
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - La línea 2 ha sido leída. Su texto es: 
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - La línea 3 ha sido leída. Su texto es: 
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - La línea 4 ha sido leída. Su texto es: 
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - La línea 5 ha sido leída. Su texto es: 
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+2025-03-20 18:34:58 [main] INFO  examen.parte2.MainFichero - El número de líneas del archivo es: 5.
+2025-03-20 18:34:58 [main] INFO  examen.parte2.MainFichero - El número de veces que aparace la palabra java es: 4.
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+ en el valor de clave 1.
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+ en el valor de clave 2.
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+ en el valor de clave 3.
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+ en el valor de clave 4.
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+ en el valor de clave 5.
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+ en el valor de clave 1.
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+ en el valor de clave 2.
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+ en el valor de clave 3.
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+ en el valor de clave 4.
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+ en el valor de clave 5.
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 1.
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 3.
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 3.
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - La palabra java aparece en la línea 5.
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su legado arraigado en la historia de la informática, emerge como un lenguaje poderoso y versátil que ha moldeado el panorama tecnológico durante décadas. 
+ en el valor de clave 1.
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Desde su concepción ha sido un catalizador en la revolución digital, marcando pautas en el desarrollo de aplicaciones empresariales, sistemas embebidos, dispositivos móviles y entornos web. 
+ en el valor de clave 2.
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Java, con su sintaxis robusta y su capacidad de ejecución multiplataforma, se ha convertido en el pilar fundamental para la creación de soluciones escalables y confiables. Su presencia es innegable en los cimientos de la programación moderna; Java permea la industria, desde empresas de renombre hasta proyectos innovadores en el ámbito académico. 
+ en el valor de clave 3.
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+La comunidad de desarrolladores, con su fervor por la innovación y la colaboración, continúa impulsando el desarrollo de nuevas bibliotecas, frameworks y herramientas que amplían el alcance y la eficiencia del ecosistema. 
+ en el valor de clave 4.
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - Se guarda en el mapa la línea:
+Esta influencia omnipresente consolida a Java como un ícono indiscutible en el mundo tecnológico, enriqueciendo constantemente su legado y su relevancia en la era digital.
+ en el valor de clave 5.
+2025-03-20 18:34:58 [main] DEBUG examen.Utilidades - Tamaño de stringSet: 29
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - Para la línea 1, el valor de la suma de su clave y del total de sus caracteres es 30.
+2025-03-20 18:34:58 [main] DEBUG examen.Utilidades - Tamaño de stringSet: 27
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - Para la línea 2, el valor de la suma de su clave y del total de sus caracteres es 29.
+2025-03-20 18:34:58 [main] DEBUG examen.Utilidades - Tamaño de stringSet: 32
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - Para la línea 3, el valor de la suma de su clave y del total de sus caracteres es 35.
+2025-03-20 18:34:58 [main] DEBUG examen.Utilidades - Tamaño de stringSet: 30
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - Para la línea 4, el valor de la suma de su clave y del total de sus caracteres es 34.
+2025-03-20 18:34:58 [main] DEBUG examen.Utilidades - Tamaño de stringSet: 27
+2025-03-20 18:34:58 [main] INFO  examen.Utilidades - Para la línea 5, el valor de la suma de su clave y del total de sus caracteres es 32.
+2025-03-20 19:20:37 [main] ERROR examen.Utilidades - Error al crear la conexión: No suitable driver found for jdbc:oracle:thin:@localhost:1522:XE
+2025-03-20 19:25:15 [main] ERROR examen.Utilidades - Error al crear la conexión: No suitable driver found for jdbc:oracle:thin:@localhost:1522:XE
+2025-03-20 19:28:16 [main] ERROR examen.Utilidades - Error al crear la conexión: No suitable driver found for jdbc:oracle:thin:@localhost:1522:XE
+2025-03-20 19:29:44 [main] DEBUG examen.Utilidades - Conexión correcta.
+2025-03-20 19:29:44 [main] INFO  examen.Utilidades - 
+2025-03-20 19:30:50 [main] DEBUG examen.Utilidades - Conexión correcta.
+2025-03-20 19:30:50 [main] INFO  examen.Utilidades - 
+2025-03-20 19:31:57 [main] DEBUG examen.Utilidades - Conexión correcta.
+2025-03-20 19:31:57 [main] INFO  examen.Utilidades - 
+2025-03-20 19:32:28 [main] DEBUG examen.Utilidades - Conexión correcta.
+2025-03-20 19:32:28 [main] INFO  examen.Utilidades - 
+2025-03-20 19:33:22 [main] DEBUG examen.Utilidades - Conexión correcta.
+2025-03-20 19:33:22 [main] INFO  examen.Utilidades - 
+2025-03-20 19:34:02 [main] DEBUG examen.Utilidades - Conexión correcta.
+2025-03-20 19:34:02 [main] INFO  examen.Utilidades - 
+2025-03-20 19:35:41 [main] DEBUG examen.Utilidades - Conexión correcta.
+2025-03-20 19:35:41 [main] INFO  examen.Utilidades - 
+2025-03-20 19:40:26 [main] DEBUG examen.Utilidades - Conexión correcta.
+2025-03-20 19:40:27 [main] INFO  examen.Utilidades - 
+2025-03-20 19:41:21 [main] DEBUG examen.Utilidades - Conexión correcta.
+2025-03-20 19:41:21 [main] INFO  examen.Utilidades - 
+2025-03-20 19:44:37 [main] DEBUG examen.Utilidades - Conexión correcta.
+2025-03-20 19:44:37 [main] INFO  examen.Utilidades - 
+2025-03-20 19:45:39 [main] DEBUG examen.Utilidades - Conexión correcta.
+2025-03-20 19:45:39 [main] DEBUG examen.Utilidades - No lee linea
+2025-03-20 19:45:39 [main] INFO  examen.Utilidades - 
+2025-03-20 19:50:48 [main] DEBUG examen.Utilidades - Conexión correcta.
+2025-03-20 19:50:48 [main] DEBUG examen.Utilidades - oracle.jdbc.driver.ForwardOnlyResultSet@7d151a
+2025-03-20 19:50:48 [main] DEBUG examen.Utilidades - No lee linea
+2025-03-20 19:50:48 [main] INFO  examen.Utilidades - 
+2025-03-20 19:56:57 [main] DEBUG examen.Utilidades - Conexión correcta.
+2025-03-20 19:56:57 [main] DEBUG examen.Utilidades - Conexión correcta.
+2025-03-20 19:56:58 [main] DEBUG examen.Utilidades - No lee linea
+2025-03-20 19:56:58 [main] INFO  examen.Utilidades - 
+2025-03-20 19:59:52 [main] DEBUG examen.Utilidades - Conexión correcta.
+2025-03-20 19:59:52 [main] ERROR examen.Utilidades - ORA-00942: la tabla o vista no existe
+
+https://docs.oracle.com/error-help/db/ora-00942/
+2025-03-20 20:00:32 [main] DEBUG examen.Utilidades - Conexión correcta.
+2025-03-20 20:00:32 [main] DEBUG examen.Utilidades - No lee linea
+2025-03-20 20:00:32 [main] INFO  examen.Utilidades - 
+2025-03-20 20:08:21 [main] DEBUG examen.Utilidades - Conexión correcta.
+2025-03-20 20:08:21 [main] DEBUG examen.Utilidades - No lee linea.
+2025-03-20 20:08:21 [main] INFO  examen.Utilidades - 
+2025-03-20 20:08:21 [main] DEBUG examen.Utilidades - No lee linea.
+2025-03-20 20:08:21 [main] INFO  examen.Utilidades - 
+2025-03-20 20:10:04 [main] DEBUG examen.Utilidades - Conexión correcta.
+2025-03-20 20:10:04 [main] DEBUG examen.Utilidades - Lee linea.
+2025-03-20 20:10:04 [main] DEBUG examen.Utilidades - Postre de limón
+2025-03-20 20:10:04 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:10:04 [main] DEBUG examen.Utilidades - Báscula electrónica
+2025-03-20 20:10:04 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:10:04 [main] DEBUG examen.Utilidades - Gorrito navideño
+2025-03-20 20:10:04 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:10:04 [main] DEBUG examen.Utilidades - Zumo de naranaja
+2025-03-20 20:10:04 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:10:04 [main] DEBUG examen.Utilidades - Termómetro electrónico
+2025-03-20 20:10:04 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:10:04 [main] DEBUG examen.Utilidades - Par de calcetines
+2025-03-20 20:10:04 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:10:04 [main] DEBUG examen.Utilidades - Carne picada de ternera
+2025-03-20 20:10:04 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:10:04 [main] DEBUG examen.Utilidades - Reloj digital
+2025-03-20 20:10:04 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:10:04 [main] DEBUG examen.Utilidades - Pizza precocinada
+2025-03-20 20:10:04 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:10:04 [main] DEBUG examen.Utilidades - Despertador
+2025-03-20 20:10:04 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:10:04 [main] DEBUG examen.Utilidades - Pañuelo
+2025-03-20 20:10:04 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:10:04 [main] INFO  examen.Utilidades - Id: 2, Nombre: Postre de limón, Tipo: Alimentación, Precio: 3.54, Stock: 5.
+Id: 3, Nombre: Báscula electrónica, Tipo: Electrónica, Precio: 17.35, Stock: 2.
+Id: 4, Nombre: Gorrito navideño, Tipo: Ropa, Precio: 2.91, Stock: 0.
+Id: 5, Nombre: Zumo de naranaja, Tipo: Alimentación, Precio: 0.84, Stock: 9.
+Id: 6, Nombre: Termómetro electrónico, Tipo: Electrónica, Precio: 4.79, Stock: 3.
+Id: 7, Nombre: Par de calcetines, Tipo: Ropa, Precio: 2.0, Stock: 14.
+Id: 8, Nombre: Carne picada de ternera, Tipo: Alimentación, Precio: 8.01, Stock: 0.
+Id: 9, Nombre: Reloj digital, Tipo: Electrónica, Precio: 12.99, Stock: 6.
+Id: 10, Nombre: Pizza precocinada, Tipo: Alimentación, Precio: 2.91, Stock: 2.
+Id: 11, Nombre: Despertador, Tipo: Electrónica, Precio: 4.79, Stock: 1.
+Id: 12, Nombre: Pañuelo, Tipo: Ropa, Precio: 0.89, Stock: 7.
+
+2025-03-20 20:10:04 [main] DEBUG examen.Utilidades - Lee linea.
+2025-03-20 20:10:04 [main] ERROR examen.Utilidades - ORA-17006: Nombre de columna no válido
+https://docs.oracle.com/error-help/db/ora-17006/
+2025-03-20 20:10:50 [main] DEBUG examen.Utilidades - Conexión correcta.
+2025-03-20 20:10:50 [main] DEBUG examen.Utilidades - Lee linea.
+2025-03-20 20:10:50 [main] DEBUG examen.Utilidades - Postre de limón
+2025-03-20 20:10:50 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:10:50 [main] DEBUG examen.Utilidades - Báscula electrónica
+2025-03-20 20:10:50 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:10:50 [main] DEBUG examen.Utilidades - Gorrito navideño
+2025-03-20 20:10:50 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:10:50 [main] DEBUG examen.Utilidades - Zumo de naranaja
+2025-03-20 20:10:50 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:10:50 [main] DEBUG examen.Utilidades - Termómetro electrónico
+2025-03-20 20:10:50 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:10:50 [main] DEBUG examen.Utilidades - Par de calcetines
+2025-03-20 20:10:50 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:10:50 [main] DEBUG examen.Utilidades - Carne picada de ternera
+2025-03-20 20:10:50 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:10:50 [main] DEBUG examen.Utilidades - Reloj digital
+2025-03-20 20:10:50 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:10:50 [main] DEBUG examen.Utilidades - Pizza precocinada
+2025-03-20 20:10:50 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:10:50 [main] DEBUG examen.Utilidades - Despertador
+2025-03-20 20:10:50 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:10:50 [main] DEBUG examen.Utilidades - Pañuelo
+2025-03-20 20:10:50 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:10:50 [main] INFO  examen.Utilidades - Id: 2, Nombre: Postre de limón, Tipo: Alimentación, Precio: 3.54, Stock: 5.
+Id: 3, Nombre: Báscula electrónica, Tipo: Electrónica, Precio: 17.35, Stock: 2.
+Id: 4, Nombre: Gorrito navideño, Tipo: Ropa, Precio: 2.91, Stock: 0.
+Id: 5, Nombre: Zumo de naranaja, Tipo: Alimentación, Precio: 0.84, Stock: 9.
+Id: 6, Nombre: Termómetro electrónico, Tipo: Electrónica, Precio: 4.79, Stock: 3.
+Id: 7, Nombre: Par de calcetines, Tipo: Ropa, Precio: 2.0, Stock: 14.
+Id: 8, Nombre: Carne picada de ternera, Tipo: Alimentación, Precio: 8.01, Stock: 0.
+Id: 9, Nombre: Reloj digital, Tipo: Electrónica, Precio: 12.99, Stock: 6.
+Id: 10, Nombre: Pizza precocinada, Tipo: Alimentación, Precio: 2.91, Stock: 2.
+Id: 11, Nombre: Despertador, Tipo: Electrónica, Precio: 4.79, Stock: 1.
+Id: 12, Nombre: Pañuelo, Tipo: Ropa, Precio: 0.89, Stock: 7.
+
+2025-03-20 20:10:50 [main] DEBUG examen.Utilidades - Lee linea.
+2025-03-20 20:10:50 [main] ERROR examen.Utilidades - ORA-17006: Nombre de columna no válido
+https://docs.oracle.com/error-help/db/ora-17006/
+2025-03-20 20:11:22 [main] DEBUG examen.Utilidades - Conexión correcta.
+2025-03-20 20:11:22 [main] DEBUG examen.Utilidades - Lee linea.
+2025-03-20 20:11:22 [main] DEBUG examen.Utilidades - Postre de limón
+2025-03-20 20:11:22 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:11:22 [main] DEBUG examen.Utilidades - Báscula electrónica
+2025-03-20 20:11:22 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:11:22 [main] DEBUG examen.Utilidades - Gorrito navideño
+2025-03-20 20:11:22 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:11:22 [main] DEBUG examen.Utilidades - Zumo de naranaja
+2025-03-20 20:11:22 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:11:22 [main] DEBUG examen.Utilidades - Termómetro electrónico
+2025-03-20 20:11:22 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:11:22 [main] DEBUG examen.Utilidades - Par de calcetines
+2025-03-20 20:11:22 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:11:22 [main] DEBUG examen.Utilidades - Carne picada de ternera
+2025-03-20 20:11:22 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:11:22 [main] DEBUG examen.Utilidades - Reloj digital
+2025-03-20 20:11:22 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:11:22 [main] DEBUG examen.Utilidades - Pizza precocinada
+2025-03-20 20:11:22 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:11:22 [main] DEBUG examen.Utilidades - Despertador
+2025-03-20 20:11:22 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:11:22 [main] DEBUG examen.Utilidades - Pañuelo
+2025-03-20 20:11:22 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:11:22 [main] INFO  examen.Utilidades - Id: 2, Nombre: Postre de limón, Tipo: Alimentación, Precio: 3.54, Stock: 5.
+Id: 3, Nombre: Báscula electrónica, Tipo: Electrónica, Precio: 17.35, Stock: 2.
+Id: 4, Nombre: Gorrito navideño, Tipo: Ropa, Precio: 2.91, Stock: 0.
+Id: 5, Nombre: Zumo de naranaja, Tipo: Alimentación, Precio: 0.84, Stock: 9.
+Id: 6, Nombre: Termómetro electrónico, Tipo: Electrónica, Precio: 4.79, Stock: 3.
+Id: 7, Nombre: Par de calcetines, Tipo: Ropa, Precio: 2.0, Stock: 14.
+Id: 8, Nombre: Carne picada de ternera, Tipo: Alimentación, Precio: 8.01, Stock: 0.
+Id: 9, Nombre: Reloj digital, Tipo: Electrónica, Precio: 12.99, Stock: 6.
+Id: 10, Nombre: Pizza precocinada, Tipo: Alimentación, Precio: 2.91, Stock: 2.
+Id: 11, Nombre: Despertador, Tipo: Electrónica, Precio: 4.79, Stock: 1.
+Id: 12, Nombre: Pañuelo, Tipo: Ropa, Precio: 0.89, Stock: 7.
+
+2025-03-20 20:11:22 [main] DEBUG examen.Utilidades - Lee linea.
+2025-03-20 20:11:22 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:11:22 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:11:22 [main] INFO  examen.Utilidades - Tipo: Electrónica, Media de precio: 9.98, Productos totales: 12.
+Tipo: Ropa, Media de precio: 1.93, Productos totales: 21.
+
+2025-03-20 20:12:03 [main] DEBUG examen.Utilidades - Conexión correcta.
+2025-03-20 20:12:03 [main] DEBUG examen.Utilidades - Lee linea.
+2025-03-20 20:12:03 [main] DEBUG examen.Utilidades - Postre de limón
+2025-03-20 20:12:03 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:12:03 [main] DEBUG examen.Utilidades - Báscula electrónica
+2025-03-20 20:12:03 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:12:03 [main] DEBUG examen.Utilidades - Gorrito navideño
+2025-03-20 20:12:03 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:12:03 [main] DEBUG examen.Utilidades - Zumo de naranaja
+2025-03-20 20:12:03 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:12:03 [main] DEBUG examen.Utilidades - Termómetro electrónico
+2025-03-20 20:12:03 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:12:03 [main] DEBUG examen.Utilidades - Par de calcetines
+2025-03-20 20:12:03 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:12:03 [main] DEBUG examen.Utilidades - Carne picada de ternera
+2025-03-20 20:12:03 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:12:03 [main] DEBUG examen.Utilidades - Reloj digital
+2025-03-20 20:12:03 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:12:03 [main] DEBUG examen.Utilidades - Pizza precocinada
+2025-03-20 20:12:03 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:12:03 [main] DEBUG examen.Utilidades - Despertador
+2025-03-20 20:12:03 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:12:03 [main] DEBUG examen.Utilidades - Pañuelo
+2025-03-20 20:12:03 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:12:03 [main] INFO  examen.Utilidades - Id: 2, Nombre: Postre de limón, Tipo: Alimentación, Precio: 3.54, Stock: 5.
+Id: 3, Nombre: Báscula electrónica, Tipo: Electrónica, Precio: 17.35, Stock: 2.
+Id: 4, Nombre: Gorrito navideño, Tipo: Ropa, Precio: 2.91, Stock: 0.
+Id: 5, Nombre: Zumo de naranaja, Tipo: Alimentación, Precio: 0.84, Stock: 9.
+Id: 6, Nombre: Termómetro electrónico, Tipo: Electrónica, Precio: 4.79, Stock: 3.
+Id: 7, Nombre: Par de calcetines, Tipo: Ropa, Precio: 2.0, Stock: 14.
+Id: 8, Nombre: Carne picada de ternera, Tipo: Alimentación, Precio: 8.01, Stock: 0.
+Id: 9, Nombre: Reloj digital, Tipo: Electrónica, Precio: 12.99, Stock: 6.
+Id: 10, Nombre: Pizza precocinada, Tipo: Alimentación, Precio: 2.91, Stock: 2.
+Id: 11, Nombre: Despertador, Tipo: Electrónica, Precio: 4.79, Stock: 1.
+Id: 12, Nombre: Pañuelo, Tipo: Ropa, Precio: 0.89, Stock: 7.
+
+2025-03-20 20:12:03 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:12:03 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:12:03 [main] DEBUG examen.Utilidades - Registro leído correctamente
+2025-03-20 20:12:03 [main] INFO  examen.Utilidades - Tipo: Alimentación, Media de precio: 3.22, Productos totales: 36.
+Tipo: Electrónica, Media de precio: 9.98, Productos totales: 12.
+Tipo: Ropa, Media de precio: 1.93, Productos totales: 21.
+
